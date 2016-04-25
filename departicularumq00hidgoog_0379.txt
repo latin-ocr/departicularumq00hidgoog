@@ -1,0 +1,54 @@
+338
+
+potentiale nieht gleich, so ist im allgemeinen eine wirkliche
+Unterbrechung der Strambahn vorhanden,' da wir dieStrom-
+quelle mit den nitthigen Zuleitungsdrtthten nicht zu unserer
+Strambahn reehnen. Es h'atte auch keinen Sinn von dem
+Leitungswidarstande einer Influenzmasehine zu reden. Wirk-
+
+lieh geschlossene Stromkreise sind daher nur diejenigen‚ in
+walchen nur Contacte oder Induktionskrafte vorhanden sind.
+
+Das Hauptresultat unserar Batrachtungen Art. 2—10,
+den Satz K), ist in der That hinreiehend um die folgenden
+Saitae N), Q), R), S) und T) harzuleiten.
+
+Wir haben in den Art. 6, 8, 9 und 14 den normalen
+Potentialzustand der Dr'athe, theilweise auch eine constante
+Langeneapaait‘at vorausgesetzt. Die Kraft der Beweisftth-
+rung wind aber von diesen Voraussetzungen nicht beein-
+trachtigt da nach dem Satze B) die Potentialcurve eines
+Drathes von der Nahe ausserer Conductoren nicht abhangt.
+
+· . Die Capacitatsverh'altnisse der Dr‘athe kttnnen beliebig sein
+
+und ein normaler Anfangszustand fiir die Potentiale ist nicht
+nttthig. lmmer kannen wir durch tremde Ladungen den fiir
+
+’ die Zusammenstellung des beabsiehtigten Stromkreises er-
+
+forderliehen Potentialzustand herstellen. Nur fiir die Bereeh-
+nung der freien Ladung einer isolirten Stnombahn miissen
+die Capaeitaten bekannt sein.
+
+Die Hauptstiitzen unserer Beweise sind die Satze Β)
+und C). Der letztgenannte Satz ist sehon von Onna ange·
+nommen. Der erste Satz ist aber, so viel wir wissen, zn-
+erst von Ennnnn am oben Art. 2angagebenen Orte aus-
+gesprachen.
+
+27. ln jedem Theile einer ununterbroehenen Strom-
+bahn wird Energie in der Form von thrme erzeugt und,
+wenn der Zustand auch in thermischer Hinsicht stationar
+ist, nach aussen abgegeben. 'Der arste Haupstsatz der me-
+
+* chanischen W'atrmetheorie sordent, dass irgendwo im Stram-
+
+kreise gleieh viel Euergie in irgend einer Form von aussen
+ausgenommen wind. ,
+
+Benutzen wir als Stromquelle eine. Influenzmachine M
+Fig. 1, durch welche die Stromst'arke iin einem Drathe
+
+ 
+

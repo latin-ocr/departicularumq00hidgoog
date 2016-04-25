@@ -1,0 +1,49 @@
+335
+
+wo Δ Vl, Δ V2-··AV„ die Werthe (33) sind. Der normale
+Potentialzustand stelit sioh somit nioht ein, wenngleioh die
+Ladung des Stromkreises gleioh Null ist.
+
+huoh wenn γ nicht constant ist, entsteht eine Ab·
+weiohung vom normaien Zustande. Diese Grosse diirt'te
+man wohl vernaohltissigen konnen, wenn intluenzmasohinen
+vorhanden sind, da sie sehr klein im Vergieioh mit den 0
+
+ist. Das erste Glied auf der linhen Seite der Gleiohung (37) ”
+
+kiinnte man in diesen Fillen weglassen.
+
+25. Wenn der Stromkreis von Drtithen verschiedener
+Substanz und verschiedenen Quersohnittes zusammengesezt
+ist, treton die Gleiohungen (23) und (24) an die Stelle der
+Gleiohungen (20) und (21) und das gemeinsame Geieille α
+in den Gleiohnngen (27) ist durch die successiven Geialle
+αἱ), “23⁶ · o„ Gi. (26) zu ersezten. Weiter muss der con-
+stante Coet'fioient γ in (32) gegen die Lingenoapaoittiten
+tn, 723· ·· yffi der successiven Dritthe ausgeteusoht werden.
+Naoh diesen Verindernngen sind die Gleiohungen (27) und
+(32) anwendbar zum Ermitteln der AV.
+
+Man kommt zu Gleiohungen von der Form (27) zurich,
+wenn man anstatt der gegebenen Lingen 1312, sea· · ·L,.l
+ihre reduoirten Ltirrqen oder ihre in Widerstandseinheiten
+angegebenen Widerstitnde‚ somit ira, ir23· ·· anstatta12L12‚
+“rofino ·· eininhrt. Ersetzt man auch in den Gleiohungen
+(33) die L duroh die r, erhilt man aus ihnen die Griissen
+AV his aus eine Constante, die wegen der Verinderliohkeit
+der Ltngenoapaoitit unhestimmt wird. Wenn daher ein
+isolirter Stromkreis gesohlossen wird‚ entsteht nicht der
+normale Potentialzustand, obgleioh die Oberfliiohenhdung
+gleioh Null wird.
+
+Auoh die Gleichung (36) ist anwendbar, wenn die
+or reducirte Ltngen bedeuten und die rechte Seite rnit ei-
+ner Constante vervoHstiindigt wird. Offenbar ist auch der
+Satn T) geltend‚ vorausgesetzt dass die Lage eines Quer-
+sohnittes durch seinen in reducirter intinge ausgedriiokten¹
+Abstand vom Origo angegeben wird.
+
+26. Naohdem wir jetzt den ganzen lnhalt des Ohm'sohen
+
+ 
+

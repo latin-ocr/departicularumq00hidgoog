@@ -1,0 +1,47 @@
+334
+
+’ betreffende Potential liefert, so enth‘dlt die Gleiehung (36)
+den folgenden Satz:
+
+Τ) In einem Stromlerer'se welcher vore Drdthew dersed
+ben Substane werd desselben Qeersehm'ttes zusammeeqesezt
+’ ist, brinqt jede eon den qeyebenee elektromotorr'schen Krds·
+ten ire jedem Quersehnitte desselbe Potential hervor ads oh
+sie einsam im eadred Kreiee vorharrderr sei.
+
+Die Superposition der Potentialzustdnde ist hiermit be·
+wiesen fiir F'a'lle, in welchen die oben gemachten Voraus-
+setzungen gelten.
+
+23. In unserem Falle wfirde jede elektromotorisehe
+Kraft fiir sich einen normalen Potentialzustand im ganzen
+Kreise hervorbringen. Wir sagen daher, dass die Gleieh·
+ung (36) den normalew Potentialrwstewd des Stromkreises
+darstellt.
+
+lm allgemeinen ist die Capaeitet per L'dngeneinheit
+verdnderlieh ldngs des Stromkreises. Es wird daher gewdhn-
+lieh eine freie Ladung vorhanden sein (vergl. Art. 4), die
+eine allgemeine Potentialerhdhung aus dem normalen Ρο-
+tentialzustande hervorbringt. Die reehte Seite der Gleiehun-
+gen (33), (35) und (36) mdssen somit ein constantes Glied
+V0 enthalten, welches im voraus nieht zu bereehnen ist,
+
+¹ aber durch die Messung des Potentiales in irgend einem
+
+Quersehnitte bestimmt werden kann. Dureh Ableitung der
+freien Ladung stellt man den normalen Zustand hervor
+mit einer Ladung‚ die nieht Null ist.
+
+24. Wenn Influenzmasehinen im Stromkreise einge-
+sehaltet sind, muss man die vollst'dndige Gleiehung (30)
+benutzen. Man sieht ein, dass diese Gleiehung sowie die
+Gleiehungen (27) geniigt werden durch die Werthe (33), je·
+der vermehrt mit einem constanten Potentialruwaehse AV,
+welcher erhalten wird aus der Gleiehung
+
+demde··÷1<122)AV†02(01†02÷·neom
+÷a(01AV1†O2AV2÷···÷0nAV„)=0, (er)
+
+ 
+

@@ -1,0 +1,36 @@
+Un probleme du calcul des probabilites.
+Pur 1.. Lindelbf.
+
+Dans t'Intcrme'diuire des Metire'muticiem, Tome Vl,
+nto 8, nous trouvonS‚ entre autres une question proposee
+d'abord par bi. A. Goldenderp et generatisee par M. E.
+Lcmoine dans les·termes suivants:
+
+„On met dans une urne a series dep bontcs; dans
+chaque se'rie les boules sont numerotees de t ap. On tire
+au hasard successivement les boules de t’urne en comptam
+n· sois de l a p. Qneiie est la probabilite pour qu’il ynait
+coincidence entre le nombre. (monce ct le numero de la
+boule extraite de l’urnef‘
+
+Ce problema peut se re'soudre de ta muniere suivante.
+Designons pas stratt122a=1a···st1p tes boules de ta premiere
+serie, pas u21,u22,···o2p celtes de la seconde et ainside
+suite, par r le nombre total des boules, en sorteque r=.up,
+et saisons, pour abre'gcr‚ P(a)=l·2·3···a. Au lieu de
+compter a fois de 1 a p, on pent, sans atterer ta probabilite
+des coincidences, compter n fois t, puis n sois 2 ct ainsi
+de suite jusqu⁷a u fois p. Cherchons d⁷abord la probabiiite
+pour qu’il n’y ait, dans cette maniere de comptor, aucune
+coincidence pour les boules portant le n:o l et que nous avons
+designees par numm-dm, c’est e dire qu'ancnne boule
+appartenant a ce premier groupe ne sorte aux n premiere
+tirages.
+
+Quant a l⁷ordre dans lequel les r boules penvent sor-
+tir de l'urne, il y aPtr·) arrangements possibles. Parmi
+ceux-ci il en existe un certain nombre, soit C(u11), qni ame-
+nent une coincidence pour la boule affl ce sont les arran-
+
+ 
+

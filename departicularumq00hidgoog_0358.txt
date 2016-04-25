@@ -1,0 +1,47 @@
+111
+
+Naeh Gl. (5) sind die Werthe der Potentindgef'eille:
+
+(10)
+
+Dieses Resuitat kdnnen wir auf einen Stromkreis er-
+weitern, welcher von mehreren Stiicken denselben 8111112111,
+eber verschiedenen Querchnittes hestehi.
+
+Ρ) Die Potentialqefd'lle in einem Stromkreise‚ welcher
+von Stdcken derselben Substanz aber verschiedenen Quer-
+schnittes zusammenqesetzt ist, verhalten sich 1111 die ner·
+schiedenen Stdcke nmqekehrt wie ihre Querschnitte.
+
+Bei der oben vorausgesetzten Anordnung haben die
+Elektroden die Potentinle ΗΕ und -2Ε; die ganze La·
+dung (die normale Lndnnq, vergi. Α11. 4) braucht aber nach
+dem Austansche der Drathstiicke nicht Null zu sein, da die
+gegen einander substitnirten Drathstiieke gleiche Ladungen
+im allgemeinen nieht haben kdnnen. lst somit der Lei-
+tungsdrath zwischen den beiden Elektroden einer 8110111-
+quelle ven Stiieken desselben Substanz aber verschiedenen
+Querschnittes zusammengesetzt, sn besitzt der Stromkreis
+iin aligemeinen eine gewisse positive oder negative freie
+Ladung‚ die ein fiir alle Theile des Strnmkreises gemein-
+sames Potenti-el ΙΙ, bedingt. Die Gleichnngen der Potentia}-
+geraden fiir die successiven Stiicke sind somit wie folgt.
+
+V01=V0†{E ·· “01oe
+νηῒ-γι “· “idm-Lm) :Vl—cesten
+
+V23=V2 ‘and “(L01·{·L12)) Ξ
+························· ll
+Vn—en -1'=Vn-2 111-22-1191 (L01†L12†···†Ln—³2 vf-di
+
+:Vn-n-an 2 -1ῑΰη -2
+
+ῑ71-111ΞΞῑῘνι-1-22-2ο15ΰ··(Ῑ111-Ι·]ἇ12·1·····Ι-Ῑῖη-221)]
+
+-Vn-l- ··n-alnxn-i·
+
+Hier werden die Abscissen x von der positiven Elek-
+node, die Abscissen 112, Ι··112 vom Anfange des 1111θί11111,
+
+ 
+

@@ -1,0 +1,42 @@
+83
+
+aucune d'entre elles. Co nombre s’obtient eridemment θη
+retrancbant de P1(r) le nombre des arrangements qui
+admettent des coincidences pour une ou plusieurs booles
+um, am· · θη, du second groupe‚ tout θη remplissant la c‘on·
+dition de n’en pas admettre pour celles du premier. Suppo-
+sons qu’on ait assigna a la boule up nne place quelconque
+dans la deuxieme renger, c'est a dire parmi celtes qu’on
+i‘ait sortir θη comptant u inis 23 le nombre des arrange-
+ments qu'on peut effectuer, dans ies conditions indiquees
+avec les r-l autres bouies, s'obtiendra en substituant r—l «-
+a r dans l’expression (1); ii sera done
+
+La somme des expressions de ee genre qu’on obtient θη
+assignant a θη successivement chacune des n places de la
+deuxieme rangee et faisant en meme temps varier θ’ de la
+rr, est u2P1(r-l). Si Pon assigne adcux booles quel-
+conques camp du second gronpe des places determinees
+dans la deuxieme rangee, le nombre des arrangements
+qu'on ,peut faire avec les autres boules, en e'cartaut les
+coincidences relatives a celles du premier groupe, sera de
+
+meme P1(r-—2)3 et commo il y a en tout πΪ-(Ἷ-ἔ-Ῑ)
+manieres distinctas d’arranger deux des u elements am,
+
+u22,···o„2 comme nous venons de le dire, ta somme des
+
+expressions de ce genre sera Q}]-)*2P1 (r—2). De
+meme la somme des expressions analogues pour ie cas ou
+
+i’on a fixe trois des elements du second groupe, sera
+
+”²(n.†?l.¹}i}².12)²p¹(p-3) et ainsi de suite. Mais ici
+encore les arrangements compris dans ies differentes som-
+mes ηθ sont pas tous distincts En eliminant ceux d'entre
+eux qui font double empioi‚ par la methodo expliquee plus
+
+haut, et retranchant le nombre des arrangements restants
+
+ 
+

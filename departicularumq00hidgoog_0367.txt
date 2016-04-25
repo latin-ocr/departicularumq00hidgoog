@@ -1,0 +1,44 @@
+326
+
+und E„.4.1 endigt, erhfilt man durch die Anwendung der
+
+m-l ersten Gleichungen (23) sowie der folgenden zwei
+Gleiehungen:
+
+wo V', Ψ· die Potentiale des Ansangs- und Endpunktes‚
+ἢ, 2·” die Widerstfinde der Leitungsstiieke vom Anfangs-
+punkte zu El und von Em zum Endpunkte sind. Man be-
+kommt die Gleiohung
+
+effe-ee essev V .
+wwfflst Ἢν -1m str-q'ru’ (2⁰)
+
+welche die volle Erweiterung des Satzes N) enthelt.
+
+S) In jeder Abtheilunq eines 222 beliebiqen cylindri·
+2212222 oder priematischee Leitere zusammeeqesetzten Stram-
+kreises iet die Stromstdrke qle'ich der alqebraischen Summe
+der in der Abtlceilemq vorleandeeen elektromotorischen Krdfte
+vermem mit der Potentialdifferem zwisalten dee Enden der
+Abtheiluny, die qanze Summe dividere mit dem qanzen Lei·
+tunysu·iderstande cler Abtheihmq.
+
+Dieser Satz, welches den gesehlossenen Stromkreis als
+einen speeiellen Fall (V'‘=V',r‘†r''=rn1)einsohliesst,bil-
+det bekanntlieh die Grundlage des zwez'ten Klecfleoee'schee
+Gesetzes ffir Stromverzweigung‚ wenn man die Leitungen
+von einem Krouzpunkte zum folgenden als die Theile eines
+geschlossenen Kreises im Stromsysteme betrachtet.
+
+Die successiven Potentialgefelle sind' im allgemeinen
+Falle:
+
+“1228-12‘2 “ea’ssfflfl ‘a nf—‘s-li· (26)
+
+Q12 qea q„ n1
+
+Das Potentialgefelle hengt somit‚ ausser von der Stromsteirke,
+vom specifieehen Widerstande und vom Querschnitte ab.
+
+ 
+

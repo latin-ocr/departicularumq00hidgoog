@@ -1,0 +1,49 @@
+344
+
+Diese sogeuannten widerstande miissen wir laut Gl. =
+(41) als Potentialabsalle aullasseu und zwar deu Uebergangs- ·
+
+widerstand als einen Potentialsprung oder eine gegeu den
+Strom geriohtcte elektromotorische Krah, die mit der elek·
+tromotorisohen Gegenkralt im Lichtbogeu gleichzustellcn ist.
+Am Sitne dieser Kraft muss sich eine entsprechende Warme
+erzeugung zeigen. Naoh Ennuun’s Untersuchungen¹) ist der
+Uebergangswiderstand an beiden Elektroden verbanden. An
+der positiven Elektrode nimmt er mit steigenderVerdiinnung
+rasch ab, erreicht aber gleichzeitig an der negativen Elek-
+trode eine enorme Grdsse. Man hat auch bei grossen Ver-
+diinnungen eine starke Erhitzung der negativen Elektrode
+beobachtet. lm galvanischen Lichtbogen ist dagegen, trotz
+seiner hohen Temperatur uud damit folgender Verdiinnung
+der Lult (bis aul 14 mm) die elektromotorische Gegenkralt
+an der positiven Polspitze iiberwiegend. Wenn der Licht-
+hogen zwischen Kohlenspitzen hergestellt wird‚ ersoheint die
+positive Spitze rothgliihend, wogegen die negative Spitze
+eine viel tiefere Temperatur hat.
+
+Nach den genanntcn Untersuchungen von Houarv hangt
+der Uebergangswiderstand von der Stromstiirke ab und kann
+durch deu Ausdruck u-l-bi angegeben werden. Der cnl-
+
+sprechende Witrmeilcot Aat†Aei2 enthtilt daher ein dem ’
+
+Quadrate der Stromst‘arke proportionales Glied, welches wir
+doch nicht als durch einen Ohm'scheu Widerstand veranlasst
+
+denken diirlen. Dieses Glied stellt ohne Zweiiel eine se· -
+
+cundare Erschciuung vor, welche wahrscheinlich nicht direct
+vom Stromc ahh'angt, sondern eine Folge der hohen Tem·
+peratur und der dadurch hervorgebrachten Ver'anderung der
+Elektroden ist. ”
+
+Dem sogenannten Gaswiderstande aber entsprioht ern
+constantes. Potentialgefalle wie hei, iesten und fliissigeu Lei·
+tern, doch mit dem Untersohiede, das dieses Gelalle von
+der Stromstdrke unabhiiugig, nicht wie bei testea und ssus-
+sigen Leitern der Stromst'arke proportional (Gl. 10) ist. Mit
+
+¹) liongl. V. Akademiens handl. Bd.'21, Nm 10.
+
+ 
+

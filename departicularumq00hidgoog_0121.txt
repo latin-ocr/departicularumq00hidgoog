@@ -1,0 +1,42 @@
+82
+
+La probabilite pour qu'il n'y ait de coincidence pour au·
+cunc des boules dont il sagit, est par consequent
+‚u e·
+le serie du second membre finissent delle-meme lorsqu on
+arrive d un terme 0.
+
+ll ne sera pos inutile de faire observer ques les for·
+mules (l) et (2) que nous venons d’obtenir‚ sont indepen-
+dantes dc l'hypothesc relative aux nombres des boules du
+deuxieme et du troisieme groupe eto, c’est b dire de celles
+qui portent respectivement les numeros 2, 3, etc, et qu'elles
+subsistent quand meme ces nombres different de n et entre
+euri, r etant toujours ie nombre total des boules.
+
+Nous avons expose en detail le procede suivi pour
+etablir ce premier resultat, parce que le meme procede
+peut se repeton d l’egard des groupes successifs et qu’ii
+couduit ainsi pas b pas d la solution finale. Observous
+toutefois que s⁷il ne s’agissait que des u premiere bruges,
+la probabilite de n³y rencontrcr aucune coincidence s’obtien·
+drait immediatement en divisant le nombre des arrange-
+ments ou les n premieres places sont occupees par des
+’ boules autres que celles du premier groupe et qui est
+(r-n)(r-n—1)···(r-2u-1-1)P(r-n)‚ par celui
+de tous les arrangements possibles‚ ou Po). Le quotient
+devant etre identique tr l’expression (2), on perrient ainsi
+et etablir la sormuie
+
+(r—2n†<‚1)=1„⁹2²4ss 'ff-(LZ-lff* ..
+,ζ’-Ι)ΉΔΓῙ φ 12 rb- 1)
+
+qui nous semble assez curiense pour me'riter d'dtre sigualee
+en possent. ’
+
+Considerons maintenant i⁷ensemble des boules formant
+ies deux premiers groupes et cherchous &determiner le
+nombre des arrangements ou il n⁷y a coincidence pour
+
+ 
+

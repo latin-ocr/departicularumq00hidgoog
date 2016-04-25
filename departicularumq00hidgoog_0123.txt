@@ -1,0 +1,40 @@
+84
+
+de Pl (u), on 'trouve que le nombre des arrangements qu’ou
+peut ellecluer avec les r boules dounees suus qu'il y ail
+cclncidence pour aucune boule des deux premiers groupes,
+et que nous appellemus P2(r), s’exprime par la formula
+
+- q -7Rp-n4fflss3ffup-n-u2
+Ce meme procede peul evidemmenl atre applique'a
+chacun des groupes suivants; il conduit a former les poly-
+
+, nomes successils
+
+Pp est le nombre des arrangemenls qu'on peut lormer
+avec les a· elemenls en assignant a chacun d'eux unc place
+quelconque hors de la range'e qui correspond a son nu-
+mero. La probabilitc' pour qu’il n'y ait coincidence pour
+aucune des boulen en les faisant mulctantes, esldouc
+
+Ur), ct celle qu'il y ait une nu plusieurs colncidenceS, par
+
+P (r)
+χ P (r)
+consequenl l- ΡΨ)
+On peulcalculer succesivement les valeurs de P1‚P2,· -Pp
+A cel ellel nn tire d⁷ab0rd de la formula (l), en yrempla-
+cant r successivement par r — 1, l· — 2,· · ·r -π, le systema
+d⁷equall0ns
+fflffl—N
+1 · 2
+ffihluuPp-ms
+
+Pp-p-u-
+
+Rffl=Pffl-YPu—ul
+
+ηἏ ²
+
+ 
+

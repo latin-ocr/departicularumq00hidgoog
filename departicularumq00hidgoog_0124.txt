@@ -1,0 +1,45 @@
+85
+
+P¹ tr· -- n) = Pir· — n) — Τ P (r — n -— 1) -i- η-ἳ-(ἴ-ῑᾋ-ῨΗΦ -u -'2) · · · ’
+Η · 2 ···nP(r·—·2rr).
+
+En substituant ces valeurs de P1 (r), P1(r-l),···
+dans la formule (3), on obtient pour ΡΜ) une expression
+lineaire eu Pir), P(r— 1), ·P(r- 2)‚· · ·P(r—‘2n) et l’on
+voit sans peine que les coeificients des differente termes
+de cette expression sont identiques e ceux des puissunces
+successives de x (Ea commencer par κο) dans le developpe-
+ment du carre du polynome
+
+{foefflffn'is'fnrw-rr·r·3···noe”.
+
+μ Π
+
+Pur un raisonnement semblable on deduit P3 (r) de P² (r)
+et ainsi de suite, et l'on trouve qu⁷en generat ΡΜ), ou
+l<ir5p, peut s’exprimer par une serie procedant sui-
+vant P(r),P(r-l)‚···P(r--nic), dont les coefficients
+sont les memes que ceux de la serie qu'on cbtient en deve-
+lcppant la irim puissance du polynorne precedent. ’
+Οηεπίνθ ainsi, en dernier lieu, au resultat suivant. Soit
+
+1-n3a4n'2ae2- wirNru·r
+
+lu serie qu’on obtient en developpant l⁷expressi0n
+
+1--.⁷;fff†⁹fflL91)-²oe2-...rr-2·3···nu·'²)p
+
+suivant les puissances de x, on aura
+
+1³„ n·)=1><r)- rr¹ rnv-⁴ 1) tt} ru- 2) e ny.
+
+et la probabitite pour ne reucontrer aucune coincidence,
+en faisant sortir toutes 'les boules, sera
+1:⁷⁸4& .-.ΗΔΓΜ-Νῗζ .
+r ru-r) 1‹2·3-·-r'
+Dans le cas particulier uir l’on n'a qu’une seule serie
+de boules‚ marque‘es de l jusqu'it r, on aura n: 1 ¹et les
+quantites N1,N2‚N3··· ne serent, au signe pree autre
+
+ 
+

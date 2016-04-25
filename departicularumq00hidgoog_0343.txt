@@ -1,0 +1,45 @@
+302
+
+nate, welche die Gre'sse und das Zeichen des Potentiales
+daretellt, so bekommen wir die Potentialcurve des Drathes,
+von dessen Ordinaten wir jetzt nur die Anrangsordinate =
+V„ und die Endordinate :Vb = —Va kennen. Wegen der
+Symmetrie der positiven und negativen Ladung kennten wir
+dazu annehmen, dass das Quersehnitt Ornit dem Potentiae
+Null in der Mitte des Drathes negt, was durch die spriteren
+Betraehtungen besterigt wird.
+
+Naeh dem Satze B) kennen wir annehmen‚ dass die
+Forrn der Petentialeurve von der Substanz, der Lange und
+dem Querschnitte des Leitungsdrathes sowie von der Strom-
+stfirke abhengt. Mithin sind bei gleieher Stromsterke die
+Potentialcurven zweier Drritlre verr derselben Substanz‚ der-
+selben L'r'tnge und demselben Quersehnitte mit einander
+congruent.
+
+Der Petentialzustand des mathee, wenn die Potentiale
+der Drathenden numeriseh gleieh aber von entgegengesetz·
+rem Zeiehen sind, nennen wir den normalem Potentielee-
+stand und die Gresse der zugeherigen Oberflechenladung
+die normale Ladue‘q des DratheS.
+
+In dem verbandenen Falle ist die normale Ladung
+gleieh Null. Sind aber die Capeeitfitsverh'e‘tltnisse des Drat-
+hes nieht symmetriseh, wie oben vorausgestetzt wurde, se
+hert auch die Symmetrie der entgegengesetzlen Ladungen
+aun die potentiale Va und Vb sind nicht mehr numerisch
+gleieh, obsehon laut B) die Potentialdifferenz Va—Vb un·
+ver'a'ndert gleieh E ist, so lange die Stromsrerke nieht ver-
+{irrdert wird. Die Petentialcurve behele ihre Ferm‚ wird
+aber parallel sieh selber in der Richtung der Ordinaten rer·
+sehoben. Diesen Potentialzustand kennen wir betraehten als
+zusammengesetzt von zwei Zust‘enden: 1) ven dem norma-
+len Zustande mit einer normalen Ladung, die nicht gleieh
+Null ist, 2) von einen] lenge des Drathes eonslanten Poten-
+tiale‚ das einer auf dem Drethe statiseh verbreiteten Ladung
+(rergl. Sere C) errlsprieht. Diese letzte Ladung werden wir
+die frere Ledeue des Drathes nennen. Nach D) ist die
+Summe der norrnalen und der freien Ladung gleich Null.
+
+ 
+

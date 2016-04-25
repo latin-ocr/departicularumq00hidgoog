@@ -1,0 +1,49 @@
+,345⁸
+
+einern gewdhnliehen Widerstande dari er nieht gleiehge·
+stelit werden, da die entsprechende Wdrmeentwiekelung der
+Stromstdrke (nieht dem Qdadrate der Stromst'eirke) propor-
+tional ist. Die Luftse'ruie kann man wegen dieses Wider-
+standes gewisserrnassen mit einer Hydro- oder Thermokette
+vergleichen, deren elektromotorische Krait proportional der
+Anzahl Elemente oder, so zu sagen, der Ldnge der Sdule
+propotional ist.
+
+33. Dass der sogenannte Gaswiderstand ein von deni ’
+
+gewdhnliehen Ohrn'sehen Widerstende ganz verschiedener Be·
+
+grid ist, geht auch durch unsererHerleitung des Ohm'sehen
+
+Gesetzes hervor. Der 0111111111111111111111111ε8ξ111111111-
+
+ten wir als ein Resultat der beiden Sdtze Η) und J). Von “
+diesen Sdtzen gili nur der erstgenannte auch fiir Gase, da
+die Potentialdifferenz der beiden Enden einer Luftsiiule‚ wenn
+man von dem Uebergangswiderstande absieht, der Ldnge der
+Sdule proportional ist. Der Satz J) kann aber aui Gase
+nieht angewandt werden, da die Grdsse R Gi. (41) nieht
+vom Quersehnitie des Entladungsrohres abhengt1) und so·
+mit die Stromst'drke in einem Stromkreise‚ der eine Luit-
+
+sdule 1111111111, vom Quersehniite dieser Lufs‘eiule unabhdn- .
+
+gig ist.
+
+Es giebt somit kein Ohm’seher Widerstand 1111 Gase.
+Genau genommen liefert anch die Gleiehung (41) keine Aus-
+kunft iiber einen selehen Widerstand, da sie eigentlieh nur
+eine Anwendung der Gleichung (18) aui den ausserhalb des
+Entiadungsrohres liegenden Theil des Siromkreises ist. Be-
+zeiehnet n'a'mlieh V das Potential der negativen‚ V' 111111Ρο-
+tential der positiven Elektrode, so stelit V'-V den gamen,
+von der Lufts'eiule hervorgebraehten Potentialabiall dar, d. h.
+V'-V ist gieich R und die Gleiehnngen (41) und (18)
+sind identiseh. Die galvanometrischen Versuehe geben sornit
+
+Ι) nn. 1111111, 1111111111111 em elektriska 11111111111111111-
+nad 11111. Akademisk eihandIIng. HelsingforS‚ 1883. S. 58-61. Wied.
+Anu. nn. 1111111, 11111. 13-11. -
+
+ 
+

@@ -1,0 +1,43 @@
+’ 343
+
+telle Untersuchungen erhaltenen Hauptresultate: 110 die vom
+Strome in einen verdiinnten Gaze erzeugte Wiirmeist der
+Stromstiirke, nieht dem Quadrato der Stromstiirke propor-
+tiona13 210 der Widerstand einer Gass'iule ist unabhiingig
+von ihrem Querschnitte. Die Energiegleichung fiir den Strom
+in einem Stromkreise, der eine Saule verdiinnten Gases
+enthilt, ist somit Εἱενὶἳ-Ι-Βί, wo E die elektromotorische
+Krait der stromerzeugenden simle, r der Widerstand des
+Stromkreises mit Ausnahme 'der Gassiiule und R der Pro-
+
+portionalitiitsfactor fiir den als Wirme in der Gassiiule auf· '
+
+tretenden Euergieeiiect sind. Laut den Betraehtungen in Art.
+28-31 miissen wir R als einen Potentialabsali auiiassen.
+Die Gleiehung fiir die Stromstfirke wird daher
+
+wie EDLUND aui auderem Wege gesunden hat.¹)
+
+Die Griisse R in einer Siiule verdiinnter ,Luft ist von
+HOMEN fiir Driicke zwisehen O‚090 und 80,9 mm Queksil·
+ber genau untersueht2). Er findet, dass R aus zwei Theilen
+zusammengesetzt ist. Der eine Theil, der Gaswidersiand,
+ist der Linge der Luftsiule proportional und hingt von dem
+Drucke ab. Zwischen den genannten Druckgrenzen nimmt
+dieser Widerstand‚ welcher von der Substanz der Elektro-
+den unabhiingig ist, von 380 volt (bei 80,9 mm) fiir jedes
+Centim‘eter der Siule zu etwa 4v01t (bei 0,090 mm) ab.
+
+Der Zweite Theil, der Ueberqanqswiderstand an den
+Elektroden‚ hingt aber von der Substanz (lierRElektroden
+ab3 erist unbedeutend bei hiiheren Drueken (etwa 400 Volt
+bei 80,⁹ mm), zeigt ein Minimum (260—270V01t) beiss
+mm, wiehst aber aus mehrere Tausenden Volt bei grosser
+Verdiinnung.
+
+¹) Bihang‚ l. c. S. 16.
+2‘) ΤΗ. ΗοΜῑέῐΝι Ueber die Electricititsleitung derGase‚1‚11‚1111;
+Acta Soc. Sc. Fenn. T. XVI, S. 107 und T. XVII, S. 15 und 29.
+
+ 
+

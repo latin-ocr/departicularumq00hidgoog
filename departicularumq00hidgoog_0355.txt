@@ -1,0 +1,48 @@
+314
+
+Ν) In jader· beliabiyeo Abthee‘tuoq eines qeechtoccanea
+Stromlcrce'sec ist die Stromctdrte yteich dar Summe der acci-
+schen den Endon der Abtheilany vorhondeaen elektromoto·
+riecheo Kroft und der Differam der Potentiae dieser Ea·
+dcta, diere Summe dividirt durch den steneneswideretond
+der Abtheilunq. ’
+
+13. Im vorhergehenden haben wir oft eine allgemeine
+Potentialverdnderung des Stromkreisee durch eine specielle
+Ladung herbeigesdhrt. Die Grdsse einer solchen Ladung ist
+gewdhnlich nicht im voraus zu berechnen, da die Capacittt
+der Ldngeneinheit (die Ldnyencapocitdt) eines cylindrischen
+oder prismatischen Leiters nich bekannt ist und dazu sel·
+ten constant angesehen werden kann. ·
+
+· Im folgenden werden wir doch Falle theoretisch be-
+handeln‚ in welchen dem Leitungsdrathe eine constante Lein-
+genoapacitat y zugeschrieben wird. Die zu einer Potential-
+verdnderung AV erforderliche Ladung wird daher Lde,
+wo L die Longe des Drathes von der einen Elektrode zur
+anderen ist. Geschieht die Potentialveranderung vom nor·
+malon Potentialzustande, so bedentet AV das nece Potential
+
+in der Mitte des Drathes, d. h. das arithmetische Mittel sei-
+ner Endpotentiale. Da nun nach Art. 8 jeder Theit des Lei·
+tungsdrathes als die urspriingliche Leitung zwischen den
+Elektroden einer Stromquelle und sein Potentialzustand als
+
+durch Potentialveranderung aas dem normalen Zustandecnt-
+standen betrachtet werden kann, erhalten wir den folgen-
+den Satz. -
+O) Dic qaaere oberflacteatadaaq, eines beliebiqen Thei-
+lee der Leitnnq ewicchcra den Elaktroden einer Stromqatelle
+antepricht bei constanter Ldnqencapaca'tdt dem Potentiale dec
+Qcterechnittes ia der Mitte dieses Theilec.
+
+Bei constanter Lttngencapacit'at erhalten wir daher fiir
+die Oberflachentadung e eines Drathes von der LangeL
+die Gleichung
+
+wermere), (7)
+
+wo Vl und V2 dic Endpotentiate des Drathes sind.
+
+ 
+

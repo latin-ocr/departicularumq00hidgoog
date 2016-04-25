@@ -1,0 +1,50 @@
+313
+
+reprhisentirt somit das Ohm’sche Gesetz fiir eine Ahiheilung
+
+des Drathes mit dem Widerstande r12=2Q
+
+M) In jeder helinhiqen Abtheihmq dequrathes r'rt die
+
+Stromsth'rke yleich der Potentialdiffererrz miseren den En·
+den der Abtheilwnq dividirt- durch den Ler'tnnyswr'derrtand
+der Abther'lwny. ,
+
+Hier ist es gleichgiiiiig oh der Potentialzustand des
+Drathes normal sei oder nicht3 denn eine Abweiehung
+vom normalen Zustande' hewirkt nur eine Versnhiehung der ’
+Potentialgeraden parallel mit sich selbst; die Potentiale V¹
+und V2 werden dadurch um gleich viel werinheri, ihre Dif-
+ferenz Vl-is² bieibt aher unveriindert.
+
+12. Bezeichnet man, nach dem gewhnhliehen Spraeh-
+gebrauche die Stromhahn als einen qerrhhssenen Sirom·
+hreis, hat man die elektromoiorische Kraft an den Zwi· '
+sehenraum hei den Elektroden zu wersetzen wo das Potentia}
+vom Werthe Vb zum vWerthe Va einen Sprung machi. Man
+findet somit Vernulassung das Ohms’che Gesetz fiir eine
+solche Ahtheilung des Stromkreises eufzustellen‚ welche den
+Siiz der elehtromntorischen Krait einsehliesst. Es seien V¹
+das Potential irgend eines Querschnittes vor der elektro-
+motorisehen Krast, V2 das Potential eines Quersehnittes nach
+der elektromotorischen Kraft (in der Richtung des Stromes
+
+gerechnet), so haben wir αεΕ-Ὴ-ΊῙῐ-Ε-’Ῐῖε
+
+L “ Lm “” L02
+Qffi, wo 1310, ΒΜ die Drethlhngen zwisehen den
+hetreffehden Querschnitten und dem Sitze der elekiromoio-
+
+rischen Kraii sind. Wir erlangen somit die Gleiehung
+
+. werse-w) -n4V1-w2
+
+2=—————--—-—-——-—‚ (e
+
+qfirr γη
+
+welche die Gleiehung (5) als einen Speeialfall iiir E=0
+einschliessi.
+
+ 
+

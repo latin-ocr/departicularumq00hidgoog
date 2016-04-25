@@ -1,0 +1,44 @@
+319
+
+Ε Ε (16)
+
+mvn-10 r ν
+W0 r=rox·{·r12†' mbr-2„ 1-†⁹'n -10·
+
+Q) Die Stromstc‘tssrke in einem von Drathstilclcen dersel·
+ben Substanz aber verschiedenen Querschmttes zusammenqe-
+setzen Stromkreise ist qleich die elelctromotorische· Krast di·
+vidirt durch die Summe der Leitunqswiderstdmle sdmmt-
+licher Theile des Stromlcreises.
+
+Benutzen wir nur einige nach einander'¹ fulgendo der
+Gleichungen (15), so bekommen wir
+
+oder auch
+i=E÷V—V‘'
+
+r ,, (18)
+wo V und V‘ die potentiale der Endquerschnitte des be-
+trachteten Theiles der Strombahn und r sein ganzer Lei·
+tungswiderstand sind. Dutch diese Gleichungen sind die
+Sfitze M) und N) auf eine Strombahn von hier angenomme-
+ner Zusammensetzung erweitert
+
+15. Unsere bisherigen Betrachtungen waren auf Strom-
+kreise mit nur einer elektromotorisehen Kraft beschrkinkt.
+Wir miissen nun das Ohm’sche Gesetz auf einen Strom-
+kreis erweitern‚ wo an verschiedenen Querschnitten Poten-
+tialspr'tinge, d. h. eleklromotorische Krfiste vorhanden sind
+Man hat bis jetzt solohe Falla damit erledigt, dass man
+eine algebraische Superposition der Strfime und Potential·
+zustfinde angenommen hat. Eine. solche Annahme finden
+wir doch kaurn berechtigt‚ wenigstens nicht wenn elektro·
+motorische Krfiste von entgegengesetzter Richtung vorkom··
+men, da eine Superposition von Strbmen oder Potential-
+zustzinden, die gar nicht zu Stande kommen himen, kei-
+nen physikalischen Sinn hat.
+
+Einen Stromkreis mit mehreren Potentialsprfingen be·
+
+ 
+

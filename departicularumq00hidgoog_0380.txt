@@ -1,0 +1,47 @@
+339
+
+ΑΘΒ von dem Widerstande r unterhalten wird, so besteht
+die von ausser zugefdhrte Energie in der zum Treiben der
+Masehine ndthigen mechanisehen Arbeit. Zu dem betreffen·
+
+den Strom gehdrt hiervon nur die Arbeit, welche die Elek· ’
+
+tricit'dtsmenge i in der Zeiteinheit vom Potentiele Vr an der
+negativen Elektrode zum Potentiale Va an der positiven Elek· -
+trode erhdht. Naeh den Gesetzen der Elektrostatik ist diese
+Arbeit ·
+
+μῆἣῇῆμεῆ. (w
+
+Die Grdsse F ist hier ein Arbeitseffeet, d. h. eine in der
+Zeiteinheit ausgeffihrte Arbeit. Der dbrige Theil der Treib-
+
+arbeit wird im Strome BMA sowie zum Ueberwinden der
+⁵ Friktion u. s. w, verbraucht und kommt hier nicht in Be-
+tracht. Die gleiehe Energiemenge wird in jeder Zeiteinheit
+ldngs des Drathes als W'drme herausgegeben. lst somit A
+das Wdrmeequivalent der Arbeitseinheit‚ so wird die in der
+Zeiteinheit im ganzen Drethe erzeugte Wdrmemenge oder
+der Wdrmeeffeet des Stromes
+
+e=Ad2Ae (e)
+
+(JOULE'S desere). Diese Gleiehung gilt ‘auch fdr jeden Theil
+des Drethes‚ dberhaupt [dr eine feste oder ssdssige Lestung,
+wo Potentialspriinge nicht vorkommen.
+
+Anstatt der lnfluenzmasrhine kann jede andere Strem-
+quelle angervandt werden. Eine Dynamemasehine erfordert
+wie die Influenzmasehine eussere Arbeit. In einem Hydro-
+elemente aber wird Arbeit in der Form von Wdrme ver·
+braueht. Diese Wdrme wird theils von den chemisehen
+Processen geliesert, theils wird sie, wenn die chemische
+Wdrme nieht hinreiehend sdr die Stromerzeugeung ist, von ’
+den umgebenden Kdrpern genommen.¹)
+
+¹) Enmren, Untersuchung dber die wermeerscheinungen in der
+galvanischen Seule und dber die elektromotorisehen Krefte. K. V.
+Akademiene handlingar, Bd. 14, Νιο 9, 1876.
+
+ 
+

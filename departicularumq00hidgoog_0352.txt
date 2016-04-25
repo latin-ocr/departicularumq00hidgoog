@@ -1,0 +1,47 @@
+311
+
+Neben den zwei Meschinen kdnnen wir eine dritte
+ehensolche Meschine stellen mit einem Drathe von der ge-
+gebenen Substanz, der gegebenen Ldnge und dem gegebe-
+nen Querschnitte und kommen so zu einem Drathe vom
+dreifachen Querschnitte mit der dreifaehen Stromstdrke bei
+unverdnderter Potentialdifferenz‚ u. s. w. Durch diese Be-
+trachtung haben wir den folgenden Satz gewonnen.
+
+J) In Drdthen von qleicher edestam und qleicder
+Ldeqe ader von verschiedenen Querschnitten verheltee sich
+dei qeyebener Potentialdifferenz ewiscden den Drethenden
+die Stromsterken wie die Querscheitte der Drdthe.
+
+10. Durch die Combinatien der Setze Η) und J) er-
+halt man nun das Ohm’sche Gesetz bei einer einzigen elek·
+tromotorisehen¹ Kraft in einem homogenen Drathe von con-
+stantem Quersehnitte. Es seien il die Stromsterke in einem
+Drathe von der L‘dnge L1 und dem Querschnitte ql, i2 die
+Stromstdrke in einem anderen Drathe von derselben Sub·
+stanz und von der Ldnge L2 und dem Quersehnitte q2,
+sowie d]l und Ε2 die Potentialdifferenzen zwisehen den En-
+
+den der Drdthe oder die elektromotorischen Krdste so wdre .
+
+nach dem Satze H) bei derselben Stromstiirke il in zwei
+Drdthen von den Ldngen L¹ und L2 und von demselben
+
+Quersehnitte {11³
+
+E1:E2=L1:L2,
+
+sowie nach dem Satze J) bei derselben elektromotorisehen
+Kraft Ε2 in zwei Drdthen von der gegebenen Substanz und
+derselben Ldnge L2‚ aber von den¹ verschiedenen Quer-
+sehnitten q1 und q2:
+
+q1:q2=i1:i2.
+
+Durch die Multiplieation dieser beiden Analogien be·
+kommen wir
+
+E‚q1:E2q2= L1i1: L2i2
+
+ 
+

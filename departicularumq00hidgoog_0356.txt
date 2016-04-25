@@ -1,0 +1,49 @@
+315
+
+lst aher y verenderlieh, ders die Gleiehung (7) nur auf
+einen unendlieh kleinen Theil dL des Drarhes angewendt
+werden:
+
+n=yvrn=-{rnr.· · (e)-
+
+Der letzte Ausdrunk wird dureh Differentiation der Gleiehung
+(l) nach x erhalten. Die ganze hadung wird durch Inte
+gration von (8) bereehnet.
+
+Man hat die Gleiehung (8) als selhstversthndlieh ange·
+nomrnen ¹), was uns nieht bereehtigt erseheint, da des Peten-
+tial des Leiters verenderlieh ist und die, Formeln-der Elek-
+trostatik daher nieht ohne weireres anzuwenden sind.
+
+Bei der Potentinlvernnderung bediirfen auch die Theile
+der Influenzmasehine- gewisse Ledungen, welche wir doch bis
+jetzt nicht zu beaehten brauehten. ¹Sph'rter hommen rene vor,
+in welehen diese Ladungen in Berechnung zu nehmen sind.
+
+Die Oberfl'nchenladung ist nicht gleichfhrmig l‘engs des
+Drathes nertheilt. Naeh der Gleichung (8) ist hemlion hei
+constanter Lnngeneepaeitnt y, die Lndnny per Ldnqenen-
+hert yV proportional dem Potentiae· V in der Mitte jedes
+Draththeilchens. Diese Ladung hat sumit, beim normalen
+Potentialzustande, an der positiven Elektrnde ihren grhssten
+positiven Werth -ΗγΕ, an der negativen Elektrnde ihren
+gressten negativen Werth ‘hr‘E und ist in der Mitte des
+Drathes gleieh Null.
+
+14. Es seien zwei Stromkreise
+gegeben, die aus zwei Drnthen von
+derselben Substanz bestehen. Die Dre-
+the haben die L'engen L, L‘ und G
+die Querschnitte q und q‘3 von den
+elektrnmotnrischen Kresten E, E' wird
+dieselbe ‚Stromsterke i in ihnen unter-
+halten;‘ der Petentielzustand mag [iir ’ ’·
+heide das normale sein. Die Quen· . HC
+schnihe (ἦθ’ Fig. ὁ sollen beidedas Fies 5. ’
+Potentia! Vl, die Quersehnitte H, H‘ heide das Potentinl Vr
+besitzen. Wir haben naeh Gr. (5);
+
+¹ ) Mnannn l. c. art. 332.
+
+ 
+

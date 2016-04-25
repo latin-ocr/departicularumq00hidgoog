@@ -1,0 +1,44 @@
+89
+
+ce qui montre que l'integrale du second membre est nulle
+en supposant s=0, 1, 2'‚···n- l.
+
+Je parniendrai a cette consequence de ln relation que
+vous avez donuee‚ au moyen de l‘expression des polynomes
+de Legendre‚ indiquee pac Dirichlet, aveo plusieurs antece,
+au debut de son celebre me'moire sur les series dont le terme
+general depend de deux angleS,
+
+Pn(cos ηε cosm} [1 — n1²tang²{†n2²tong⁴} ·· - ],
+c
+
+ou nu designo le coefficient de x* dans le developpement de
+<l †x)²⁸. En posent eosy=x‚ on en tire:
+
+neo=oeo2enuffi3ff
+
+nn
+
+{enoceunuco-ok,
+
+(k=0, 1,2, n):
+
+‘c’est la formule dont je vais faire usage. Elle s'offre comme
+d’elle meme, si l’on ecrit l’equation (A) de cetle muniere:
+
+u-c-Ue-c-ffissffltssn- Μ n2 *c2un
+r(r—l)···(e·—n) =· · ···(r-›-1··)
+1·2···k
+
+et qu'on complace le sacteur ἦνῖῑῐῇψ--ῶ par l’integralc
+1
+
+Eulerienne scr-*⁴ (1 — c)¹‘dx‚ ou pluto! par la transformee
+
+obtenue lorsqu'on met ’Ὗ au lieu deoc. Nous avons ainsi:
+
+et par consequent celte nouvelle forme de l’egelite' prece·
+dente, ὲ savoie .
+
+ 
+
